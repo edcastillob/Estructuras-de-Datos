@@ -1,4 +1,4 @@
-class Nodo{                   //Clase para crear el nodo
+﻿class Nodo{           //Clase para crear el nodo
 	constructor(data){
 		this.data = data;	  //Este será los datos a guardar	
 		this.next = null;	  //Sera la cola del nodo		
